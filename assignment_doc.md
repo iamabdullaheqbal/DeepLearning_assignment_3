@@ -1,11 +1,11 @@
 # Deep Learning Assignment 3: Convolutional Neural Network (CNN) Documentation
 
-**Name**: Abdullah 
-**Roll No.**: 23018020054
-**Assignment**: CNN for Image Classification  
-**Datasets**: MNIST and CIFAR-10  
-**Framework**: TensorFlow/Keras  
-**Date**: January 14, 2026
+**Name:** Abdullah  
+**Roll No:** 23018020054  
+**Assignment:** CNN for Image Classification  
+**Datasets:** MNIST and CIFAR-10  
+**Framework:** TensorFlow/Keras  
+**Date:** January 14, 2026
 
 ---
 
@@ -655,9 +655,10 @@ Or open in VS Code and select `.venv` kernel.
 
 **End of Documentation**
 
-**Author**: Abdullah  
-**Course**: Deep Learning & Neural Networks  
-**Assignment**: 3 - Convolutional Neural Networks  
-**Date**: January 14, 2026  
-**Framework**: TensorFlow/Keras 2.20.0  
-**Python Version**: 3.12.12
+**Name:** Abdullah  
+**Roll No:** 23018020054  
+**Course:** Deep Learning & Neural Networks  
+**Assignment:** 3 - Convolutional Neural Networks  
+**Date:** January 14, 2026  
+**Framework:** TensorFlow/Keras 2.20.0  
+**Python Version:** 3.12.12
