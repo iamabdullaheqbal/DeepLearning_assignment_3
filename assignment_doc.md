@@ -1,7 +1,7 @@
 # Deep Learning Assignment 3: Convolutional Neural Network (CNN) Documentation
 
 **Name**: Abdullah 
-**Roll No.** 23018020054
+**Roll No.**: 23018020054
 **Assignment**: CNN for Image Classification  
 **Datasets**: MNIST and CIFAR-10  
 **Framework**: TensorFlow/Keras  
