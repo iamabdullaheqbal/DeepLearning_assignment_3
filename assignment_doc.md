@@ -16,8 +16,7 @@
 3. [Part 1: MNIST Dataset](#part-1-mnist-dataset)
 4. [Part 2: CIFAR-10 Dataset](#part-2-cifar-10-dataset)
 5. [Comparison and Analysis](#comparison-and-analysis)
-6. [How to Run](#how-to-run)
-7. [Results Summary](#results-summary)
+6. [Results Summary](#results-summary)
 
 ---
 
@@ -510,87 +509,6 @@ history_c10 = model_c10.fit(
 
 ---
 
-## How to Run
-
-### Prerequisites
-
-1. **Python 3.12+** installed
-2. **uv package manager** installed
-3. **Jupyter Notebook** or **VS Code** with Jupyter extension
-
-### Installation Steps
-
-**Step 1: Install uv (if not installed)**
-```bash
-# Windows (PowerShell)
-powershell -c "irm https://astral.sh/uv/install.ps1 | iex"
-
-# macOS/Linux
-curl -LsSf https://astral.sh/uv/install.sh | sh
-```
-
-**Step 2: Navigate to project directory**
-```bash
-cd deeplearning-assignment-3
-```
-
-**Step 3: Sync dependencies**
-```bash
-uv sync
-```
-This creates virtual environment and installs:
-- TensorFlow 2.20.0
-- matplotlib 3.10.8
-- scikit-learn 1.8.0
-- seaborn 0.13.2
-
-**Step 4: Activate virtual environment**
-```bash
-# Windows
-.venv\Scripts\activate
-
-# macOS/Linux
-source .venv/bin/activate
-```
-
-**Step 5: Start Jupyter Notebook**
-```bash
-jupyter notebook abdullah_54.ipynb
-```
-
-Or open in VS Code and select `.venv` kernel.
-
-### Running the Notebook
-
-**Part 1: MNIST (Sections 1-8)**
-1. Run cells sequentially from top
-2. Wait for MNIST dataset download (~11 MB)
-3. Training takes ~5-10 minutes
-4. Review results and visualizations
-
-**Part 2: CIFAR-10 (Remaining sections)**
-1. Continue running cells sequentially
-2. Wait for CIFAR-10 dataset download (~163 MB)
-3. Training takes ~15-30 minutes
-4. Review results and visualizations
-
-**Total Runtime**: ~30-45 minutes (depending on hardware)
-
-### Expected Output
-
-**MNIST:**
-- Training accuracy: ~99%
-- Validation accuracy: ~98.5%
-- Test accuracy: ~98.5%
-- All metrics (precision, recall, F1): ~98.5%
-
-**CIFAR-10:**
-- Training accuracy: ~80-85%
-- Validation accuracy: ~75-80%
-- Test accuracy: ~70-80%
-- All metrics: ~70-80%
-
----
 
 ## Results Summary
 
