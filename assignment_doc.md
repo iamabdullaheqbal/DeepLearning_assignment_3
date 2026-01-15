@@ -1,10 +1,11 @@
 # Deep Learning Assignment 3: Convolutional Neural Network (CNN) Documentation
 
-**Student Name**: Abdullah  
+**Name**: Abdullah 
+**Roll No.** 23018020054
 **Assignment**: CNN for Image Classification  
 **Datasets**: MNIST and CIFAR-10  
 **Framework**: TensorFlow/Keras  
-**Date**: January 2026
+**Date**: January 14, 2026
 
 ---
 
@@ -651,72 +652,12 @@ Or open in VS Code and select `.venv` kernel.
 
 ---
 
-## Conclusion
-
-### Assignment Completion
-
-All required tasks successfully completed:
-
-✅ **Task 1**: Downloaded and preprocessed both datasets with proper train/test splitting
-
-✅ **Task 2**: Implemented CNN models with convolutional, pooling, and fully connected layers
-
-✅ **Task 3**: Trained models using categorical cross-entropy loss and Adam optimizer with monitoring
-
-✅ **Task 4**: Evaluated models with accuracy, precision, recall, and F1-score metrics
-
-✅ **Task 5**: Experimented with different hyperparameters (learning rate, batch size)
-
-✅ **Task 6**: Documented entire approach with visualizations and insights
-
-### Key Achievements
-
-1. **Dual Implementation**: Successfully implemented CNNs for both simple (MNIST) and complex (CIFAR-10) datasets
-
-2. **High Performance**: Achieved 98.5% accuracy on MNIST and 70-80% on CIFAR-10 (good for basic CNN)
-
-3. **Architecture Adaptation**: Demonstrated understanding of how to adapt architecture to dataset complexity
-
-4. **Comprehensive Evaluation**: Used multiple metrics for thorough performance assessment
-
-5. **Hyperparameter Optimization**: Systematically tested different configurations
-
-6. **Complete Documentation**: Detailed documentation of entire process
-
-### Future Improvements
-
-**For MNIST:**
-- Data augmentation (rotation, shift)
-- Ensemble methods
-- Fine-tune architecture
-
-**For CIFAR-10:**
-- Data augmentation (flips, crops, color jitter)
-- Batch normalization
-- Learning rate scheduling
-- Deeper architectures (ResNet, VGG)
-- Transfer learning
-- Advanced optimizers
-
-### Final Thoughts
-
-This assignment demonstrated fundamental CNN concepts and their application to real-world image classification tasks. The comparison between MNIST and CIFAR-10 highlighted how architecture choices must adapt to dataset characteristics. The implementation shows solid understanding of:
-
-- CNN architecture design
-- Training optimization
-- Model evaluation
-- Hyperparameter tuning
-- Documentation practices
-
-The project successfully bridges theory and practice, providing hands-on experience with deep learning for computer vision tasks.
-
----
 
 **End of Documentation**
 
 **Author**: Abdullah  
 **Course**: Deep Learning & Neural Networks  
 **Assignment**: 3 - Convolutional Neural Networks  
-**Date**: January 2026  
+**Date**: January 14, 2026  
 **Framework**: TensorFlow/Keras 2.20.0  
 **Python Version**: 3.12.12
